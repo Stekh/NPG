@@ -1,1 +1,1 @@
-Jedna linia dowolnego tekstu  
+Inna linia dowolnego tekstu  
